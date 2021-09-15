@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PizzariaDosMelhoresApplication<pizzaria-dos-melhores>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.the4me.pizzariadosmelhores.PizzariaDosMelhoresApplication",
+            "projectName": "pizzaria-dos-melhores",
+            "args": ""
+        }
+    ]
+}

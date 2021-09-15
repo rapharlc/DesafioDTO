@@ -1,0 +1,19 @@
+Objetivo:
+
+Criar uma api mostrando todo seu conhecimento adquirido durante as nossas empolgantes aulas.
+
+Historinha:
+Era uma vez um professor de programação que decidiu largar a sua vida de programador
+e se tornar técnico de futebol.
+Ele tem uma grande sacada, e descobriu a formula mágica para seu time nunca mais perder.
+
+Diante disso, ele precisa armazenar os seus jogadores em algum lugar, onde ele possa consumir as informações a qualquer momento via internet.
+Com isso, cada um foi contratado com salario minimo de 10k para desenvolver uma API onde seja possível fazer um CRUD de jogadores de futebol.
+
+Todo jogador deverá ter:
+# - Id
+# - Nome
+# - Idade
+# - Altura
+# - Posicao
+# - Salario
